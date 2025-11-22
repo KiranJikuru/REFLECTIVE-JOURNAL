@@ -1,0 +1,6 @@
+streamlit
+python-docx
+docx2pdf
+google-generativeai
+python-dotenv
+protobuf
